@@ -1,5 +1,10 @@
 <div align="center">
 
+## 📂 **Repository Link**
+**🔗 GitHub Repository:** https://github.com/Chamod-Ravishanka/IrisAI.git
+
+---
+
 # 🌸 Iris AI - Neural Classification Dashboard
 
 ### _Next-Generation Machine Learning Interface for Iris Species Classification_
