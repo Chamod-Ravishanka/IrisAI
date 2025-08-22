@@ -8,6 +8,7 @@
 [![Python](https://img.shields.io/badge/Python-3.11.6-3776ab?style=for-the-badge&logo=python)](https://python.org)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.4.0-f7931e?style=for-the-badge&logo=scikit-learn)](https://scikit-learn.org/)
 [![License](https://img.shields.io/badge/License-Educational-green?style=for-the-badge)](LICENSE)
+[![Repository](https://img.shields.io/badge/Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Chamod-Ravishanka/IrisAI.git)
 
 <img src="./images/screenshot.jpeg" alt="Iris AI Dashboard" width="600"/>
 
@@ -373,7 +374,7 @@ We welcome contributions! Here's how you can help:
 
 ```bash
 # Clone repository
-git clone https://github.com/your-username/iris-ai.git
+git clone https://github.com/Chamod-Ravishanka/IrisAI.git
 
 # Install development dependencies
 pip install -r requirements-dev.txt
@@ -445,8 +446,8 @@ uvicorn main:app --reload --host 0.0.0.0 --port 8000
 ### **Need Help?**
 
 [![Documentation](https://img.shields.io/badge/📚-Documentation-blue?style=for-the-badge)](http://localhost:8000/docs)
-[![Issues](https://img.shields.io/badge/🐛-Report_Bug-red?style=for-the-badge)](https://github.com/your-repo/issues)
-[![Discussions](https://img.shields.io/badge/💬-Discussions-green?style=for-the-badge)](https://github.com/your-repo/discussions)
+[![Issues](https://img.shields.io/badge/🐛-Report_Bug-red?style=for-the-badge)](https://github.com/Chamod-Ravishanka/IrisAI/issues)
+[![Discussions](https://img.shields.io/badge/💬-Discussions-green?style=for-the-badge)](https://github.com/Chamod-Ravishanka/IrisAI/discussions)
 
 **🌸 Ready to classify some flowers? Launch the app and explore the future of ML interfaces! 🌸**
 
@@ -458,7 +459,7 @@ uvicorn main:app --reload --host 0.0.0.0 --port 8000
 
 **Made with ❤️ for the ML Community**
 
-[![Star this repo](https://img.shields.io/badge/⭐-Star_this_repo-yellow?style=for-the-badge&logo=github)](https://github.com/your-repo)
+[![Star this repo](https://img.shields.io/badge/⭐-Star_this_repo-yellow?style=for-the-badge&logo=github)](https://github.com/Chamod-Ravishanka/IrisAI)
 
 _© 2025 Iris AI Project - Educational Machine Learning Implementation_
 
